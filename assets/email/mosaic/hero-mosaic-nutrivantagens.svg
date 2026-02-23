@@ -1,0 +1,60 @@
+<svg width="600" height="430" viewBox="0 0 600 430" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bg" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(430 130) rotate(90) scale(330 520)">
+      <stop stop-color="#0BAA95"/>
+      <stop offset="1" stop-color="#003B3A"/>
+    </radialGradient>
+    <linearGradient id="coin" x1="478" y1="170" x2="574" y2="270" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFE082"/>
+      <stop offset="1" stop-color="#E7A33A"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="430" fill="url(#bg)"/>
+  <g opacity="0.2" stroke="#53D4C3" stroke-width="8">
+    <line x1="430" y1="130" x2="-120" y2="-100"/>
+    <line x1="430" y1="130" x2="-90" y2="0"/>
+    <line x1="430" y1="130" x2="-60" y2="90"/>
+    <line x1="430" y1="130" x2="-40" y2="180"/>
+    <line x1="430" y1="130" x2="10" y2="270"/>
+    <line x1="430" y1="130" x2="60" y2="350"/>
+    <line x1="430" y1="130" x2="120" y2="430"/>
+    <line x1="430" y1="130" x2="200" y2="520"/>
+    <line x1="430" y1="130" x2="320" y2="560"/>
+    <line x1="430" y1="130" x2="430" y2="560"/>
+    <line x1="430" y1="130" x2="540" y2="560"/>
+    <line x1="430" y1="130" x2="650" y2="520"/>
+  </g>
+
+  <rect x="38" y="14" width="86" height="86" fill="#F2F2F2"/>
+  <text x="58" y="60" fill="#111" font-size="18" font-weight="700" font-family="Arial">Mosaic</text>
+  <polygon points="64,72 78,64 94,67 79,76" fill="#26A6A6"/>
+  <polygon points="79,76 94,67 108,70 94,80" fill="#C5731F"/>
+  <polygon points="94,80 108,70 116,74 102,84" fill="#B7C70D"/>
+
+  <text x="36" y="174" fill="#B7C70D" font-size="48" font-weight="700" font-family="Arial">NUTRI</text>
+  <text x="188" y="174" fill="#17CDBD" font-size="48" font-weight="700" font-family="Arial">VANTAGENS</text>
+  <text x="36" y="198" fill="#EAF1F0" font-size="24" font-weight="700" font-family="Arial">O PROGRAMA DE FIDELIDADE DA MOSAIC.</text>
+  <text x="36" y="258" fill="white" font-size="60" font-weight="900" font-family="Arial">VOCÊ TEM UMA</text>
+  <text x="36" y="324" fill="white" font-size="60" font-weight="900" font-family="Arial">OFERTA EXCLUSIVA!</text>
+
+  <rect x="380" y="295" width="180" height="54" rx="14" fill="#12A298"/>
+  <rect x="380" y="282" width="90" height="67" rx="14" fill="#0B8D87"/>
+
+  <g>
+    <rect x="364" y="192" width="70" height="96" rx="8" fill="#E7E9E9" stroke="#C1C1C1"/>
+    <path d="M380 188 C380 165, 398 165, 398 188" stroke="#E7E9E9" stroke-width="6" fill="none"/>
+    <path d="M399 188 C399 165, 417 165, 417 188" stroke="#E7E9E9" stroke-width="6" fill="none"/>
+  </g>
+  <g>
+    <rect x="430" y="208" width="58" height="80" rx="8" fill="#E7E9E9" stroke="#C1C1C1"/>
+    <path d="M442 204 C442 185, 457 185, 457 204" stroke="#E7E9E9" stroke-width="6" fill="none"/>
+    <path d="M459 204 C459 185, 474 185, 474 204" stroke="#E7E9E9" stroke-width="6" fill="none"/>
+  </g>
+
+  <path d="M392 168 C420 112, 486 118, 518 152" stroke="#B7C70D" stroke-width="9" fill="none"/>
+  <polygon points="498,137 531,145 510,170" fill="#B7C70D"/>
+
+  <circle cx="525" cy="220" r="52" fill="url(#coin)" stroke="#FFE89A" stroke-width="5"/>
+  <circle cx="525" cy="220" r="42" fill="none" stroke="#EAA643" stroke-width="3"/>
+  <text x="497" y="238" fill="#F36E1F" font-size="62" font-weight="700" font-family="Arial">R$</text>
+</svg>
